@@ -1,0 +1,1 @@
+select count(id_pelicula) as total from reparto where actor = 'Harrison Ford';

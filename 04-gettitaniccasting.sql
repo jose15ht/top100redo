@@ -1,0 +1,1 @@
+select actor from reparto where id_pelicula = 2;
